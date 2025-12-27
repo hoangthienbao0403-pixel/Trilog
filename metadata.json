@@ -1,0 +1,7 @@
+{
+  "name": "TriLog",
+  "description": "A minimalist daily journal for recording victories, anxieties, and gratitudes, featuring AI-powered emotional insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
